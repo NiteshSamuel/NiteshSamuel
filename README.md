@@ -27,8 +27,8 @@ Welcome to my GitHub! I'm a passionate software engineer with hands-on experienc
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NiteshSamuel&show_icons=true&theme=react" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshSamuel&theme=react" width="48%"/>
 </p>
 
 ---
